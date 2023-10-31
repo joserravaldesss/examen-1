@@ -1,0 +1,29 @@
+1? que es un pull request?
+un pull request es la manera que tienen los programadores de hacer una peticion para un hacer cambio en un repositorio
+2? que es un conflicto de fusion?
+un conflicto de fusion en git es cuando dos comados son contrapuestos en la misma linea ocurriendo un conflicto entre si
+3?
+es una coia independiente del repositorio original 
+para fusionar ambas ramas habra que hacer el pull request para que asi el propietario hacepte los cambios y la rama se fusionan 
+4?
+usaria el comando git reset --hard
+5?
+para realizar el fork tienes que clonar el repositorio creado, es una copia indpendiente del repositorio original que se crea en tu propia cuenta 
+6?
+uso el comando ls y despues el comando cd con el nombre del directorio al que quiero llegar y es un tipo de ruta abasoluta ya que paso por todos los puntos hasta llegar al archivo deseado o 
+si lo quiero crear uso el comando mkdir, b) para poder acceder al archivo usaria el comando cd y como no tengo que pasar por todos los sitios seria una ruta relativa 
+7? 
+1  git clone 
+2  git add
+3  git branch
+4 git push 
+5 git commit
+6 git pull
+7 git checkout
+8 git merge
+9 git reset - hard 
+10 git log 
+8? para integrar ambas ramas de manera correcta yo haria lo siguiente me aseguaria que ambas ramas estan actualizadas 
+
+9? 
+ c) Añadiste el botón "x^4" al archivo "index.html" en tu repositorio local, creaste un commit con los cambios y luego subiste el repositorio local al remoto en la rama principal (master)
